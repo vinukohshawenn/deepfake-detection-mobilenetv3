@@ -1,22 +1,3 @@
-"""
-Data loading utilities.
-
-Expected folder structure:
-
-data/
-├── Train/
-│   ├── Real/
-│   └── Fake/
-│
-└── Test/
-    ├── Real/
-    └── Fake/
-
-Labels:
-    Real = 0
-    Fake = 1
-"""
-
 import tensorflow as tf
 import config
 
