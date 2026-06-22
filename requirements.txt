@@ -1,0 +1,5 @@
+tensorflow-cpu>=2.20
+scikit-learn>=1.5
+matplotlib>=3.9
+pillow>=10.3
+numpy>=1.26
