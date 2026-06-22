@@ -24,9 +24,9 @@ BEST_MODEL_PATH = os.path.join(OUTPUT_DIR, "deepfake_detector_best.keras")
 # ==========================================================
 
 IMG_SIZE = (224, 224)
-BATCH_SIZE = 32          # Use 16 if RAM is limited
+BATCH_SIZE = 32          
 
-VAL_SPLIT = 0.10         # 10% of TRAIN becomes validation
+VAL_SPLIT = 0.10         
 SEED = 42
 
 # ==========================================================
