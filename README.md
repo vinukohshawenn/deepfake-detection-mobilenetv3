@@ -123,7 +123,7 @@ data/
 
 The validation dataset is automatically created from **10% of the training set** during training.
 
-Downloaded the dataset from: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+Using the dataset: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
 
 ---
 
